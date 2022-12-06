@@ -1,0 +1,11 @@
+.product_img{
+    width: 300px;
+    height: 300px;
+    padding:30px;
+    object-fit: contain;
+}
+.title{
+    color: #274e13;
+}
+
+  

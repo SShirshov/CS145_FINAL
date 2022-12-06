@@ -1,0 +1,48 @@
+/*CLASSES*/
+.flex-container {
+    display: flex;
+}
+.flex-container-body{
+    display: flex;
+}
+.logo {
+    align-self: center;
+    padding: 20px;
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+/*END CLASSES*/
+/*TAGS*/
+header{
+    background-color: #38761d;
+    border-radius: 10px;
+}
+body{
+    background-color: #b6d7a8;
+    color: #274e13;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+nav {
+    align-self: center;
+    padding-left: 50px;
+}
+li {
+    float: left;
+    background-color: #38761d ;
+}
+
+li a {
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+/*END TAGS*/

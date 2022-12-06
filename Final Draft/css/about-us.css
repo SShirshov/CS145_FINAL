@@ -1,0 +1,13 @@
+.title{
+    color: #274e13;
+}
+.about_us_img{
+    width: 500px;
+    height: 300px;
+    object-fit: contain;
+}
+.about_us_logo_img{
+    width: 500px;
+    height: 500px;
+    object-fit: contain;
+}
