@@ -1,4 +1,18 @@
 /*CLASSES*/
+:root{
+    max-width: 1000px;
+    margin: auto;
+}
+h1{
+    font-family: 'Heebo', sans-serif;
+}
+h2{
+    font-family: 'Heebo', sans-serif;
+}
+p{
+    font-family: 'Heebo', sans-serif;
+}
+
 .flex-container {
     display: flex;
 }
@@ -32,6 +46,7 @@ ul {
 nav {
     align-self: center;
     padding-left: 50px;
+    font-family: 'Varela Round', sans-serif;
 }
 li {
     float: left;
@@ -45,4 +60,5 @@ li a {
     padding: 16px;
     text-decoration: none;
 }
+
 /*END TAGS*/
