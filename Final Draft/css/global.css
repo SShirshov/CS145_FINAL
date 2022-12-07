@@ -10,7 +10,8 @@ h2{
     font-family: 'Heebo', sans-serif;
 }
 p{
-    font-family: 'Heebo', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    letter-spacing: normal;
 }
 
 .flex-container {
